@@ -1,0 +1,10 @@
+Brodway.wav
+NewYork.jpg
+WallImage.jpg
+3 3
+0 600 1400 100
+1000 100 100 30
+700 500 300 50
+20 20 15 38 39 37 Rabbit1.png
+695 20 15 87 68 65 Rabbit2.png
+1280 20 15 73 76 74 Rabbit3.png
